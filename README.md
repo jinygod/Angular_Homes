@@ -22,8 +22,8 @@
 
 ## 설치 및 실행 방법
 
-1. git clone https://github.com/yourusername/your-repo-name.git
-2. cd your-repo-name
+1. git clone https://github.com/jinygod/angularboard.git
+2. cd angularboard
 3. npm install
 4. npm run start:server
 5. `http://localhost:4200/`
